@@ -28,7 +28,7 @@ Note : the homework this week will be to finish all of the classwork, and includ
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have. You can use the GitHub web interface to edit this file directly for now.
+The best part of this assignment was, once again, having to deal with the little errors and internet searches and such. I guess also working by myself was helpful?? Mostly annoying, but helpful nonetheless.
 
 **CHANGEME**
 
@@ -41,4 +41,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAMES**
+Morgan Holve
