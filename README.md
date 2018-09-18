@@ -1,9 +1,8 @@
-[![Build Status](https://travis-ci.com/chapman-phys220-2018f/CHANGEME.svg?branch=master)](https://travis-ci.com/chapman-phys220-2018f/CHANGEME)
+[![Build Status](https://travis-ci.com/chapman-phys220-2018f/cw03-sharks-with-lasers.svg?branch=master)](https://travis-ci.com/chapman-phys220-2018f/cw03-sharks-with-lasers)
 
 # PHYS220/MATH220/CPSC220 CW 3
 
-**Author(s):** **CHANGEME**
-
+**Author(s): Morgan Holve
 ## Specification
 
 Complete the following exercises, saving your solutions in the indicated files. For Python files that include test functions, GitHub will automatically run your tests with ```nosetests3``` on every commit, indicating any failures via the Travis framework in the build status image above.
