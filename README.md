@@ -2,7 +2,13 @@
 
 # PHYS220/MATH220/CPSC220 CW 3
 
-**Author(s): Morgan Holve
+**Author(s): Morgan Holve**
+
+## INSTRUCTOR COMMENTS
+
+Paul, please actually work with your group. Your grade in the class depends on learning how to work as a team.
+
+
 ## Specification
 
 Complete the following exercises, saving your solutions in the indicated files. For Python files that include test functions, GitHub will automatically run your tests with ```nosetests3``` on every commit, indicating any failures via the Travis framework in the build status image above.
